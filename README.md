@@ -95,7 +95,3 @@ A passionate developer, creator, and AI enthusiast building cool things, sharing
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=F7B32B&center=true&vCenter=true&width=450&lines=Thanks+for+visiting!+Have+a+great+day!+🌟" alt="Thanks Typing SVG" />
-</div>
